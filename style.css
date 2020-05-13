@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+}
+main {
+  background-color: grey;
+  padding: 30px;
+}
+
+.panels {
+  display: flex;
+  background-color: gainsboro;
+  width: 50%;
+  margin: 0 auto;
+  border: 10px white solid;
+  border-radius: 30px;
+}
+
+.panel {
+  margin: 20px auto;
+}
+
+.stop {
+  background-color: salmon;
+  color: white;
+  border-radius: 50px;
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+#spin {
+  background-color: skyblue;
+  color: white;
+  border-radius: 50px;
+  text-align: center;
+  padding: 20px;
+  margin: 20px auto;
+  width: 40%;
+  font-weight: bold;
+}
