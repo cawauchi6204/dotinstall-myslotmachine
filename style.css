@@ -27,10 +27,11 @@ main {
   padding: 20px;
   margin-top: 20px;
   font-weight: bold;
+  cursor: pointer;
 }
 
 #spin {
-  background-color: skyblue;
+  background-color: steelblue;
   color: white;
   border-radius: 50px;
   text-align: center;
@@ -38,4 +39,5 @@ main {
   margin: 20px auto;
   width: 40%;
   font-weight: bold;
+  cursor: pointer;
 }
